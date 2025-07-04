@@ -4,7 +4,7 @@
         "filesToUpdate": [
             {
                 "fileUrl": "https://www.dropbox.com/scl/fi/rcgi8frlyvuwbjjb6j8wl/tsw-xx70_3.001.0020.001.puf?rlkey=uxcpwg9kpl063y8ar2s37mnac&st=6sxf6ya1&dl=1",
-                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/firmware/tss-version.txt",
+                "fileHashUrl": "https://raw.githubusercontent.com/SPloegje/Crestron-TSW-Update/refs/heads/main/tss-version.txt",
                 "fileType": "firmware"
             }
         ]
@@ -14,7 +14,7 @@
         "filesToUpdate": [
             {
                 "fileUrl": "https://www.dropbox.com/scl/fi/rcgi8frlyvuwbjjb6j8wl/tsw-xx70_3.001.0020.001.puf?rlkey=uxcpwg9kpl063y8ar2s37mnac&st=6sxf6ya1&dl=1",
-                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/firmware/tss-version.txt",
+                "fileHashUrl": "https://raw.githubusercontent.com/SPloegje/Crestron-TSW-Update/refs/heads/main/tss-version.txt",
                 "fileType": "firmware"
             }
         ]
@@ -24,7 +24,7 @@
         "filesToUpdate": [
             {
                 "fileUrl": "https://www.dropbox.com/scl/fi/rcgi8frlyvuwbjjb6j8wl/tsw-xx70_3.001.0020.001.puf?rlkey=uxcpwg9kpl063y8ar2s37mnac&st=6sxf6ya1&dl=1",
-                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/firmware/tss-version.txt",
+                "fileHashUrl": "https://raw.githubusercontent.com/SPloegje/Crestron-TSW-Update/refs/heads/main/tss-version.txt",
                 "fileType": "firmware"
             }
         ]
@@ -34,7 +34,7 @@
         "filesToUpdate": [
             {
                 "fileUrl": "https://www.dropbox.com/scl/fi/rcgi8frlyvuwbjjb6j8wl/tsw-xx70_3.001.0020.001.puf?rlkey=uxcpwg9kpl063y8ar2s37mnac&st=6sxf6ya1&dl=1",
-                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/firmware/tss-version.txt",
+                "fileHashUrl": "https://raw.githubusercontent.com/SPloegje/Crestron-TSW-Update/refs/heads/main/tss-version.txt",
                 "fileType": "firmware"
             }
         ]
@@ -44,7 +44,7 @@
         "filesToUpdate": [
             {
                 "fileUrl": "https://www.dropbox.com/scl/fi/rcgi8frlyvuwbjjb6j8wl/tsw-xx70_3.001.0020.001.puf?rlkey=uxcpwg9kpl063y8ar2s37mnac&st=6sxf6ya1&dl=1",
-                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/firmware/tss-version.txt",
+                "fileHashUrl": "https://raw.githubusercontent.com/SPloegje/Crestron-TSW-Update/refs/heads/main/tss-version.txt",
                 "fileType": "firmware"
             }
         ]
@@ -54,7 +54,7 @@
         "filesToUpdate": [
             {
                 "fileUrl": "https://www.dropbox.com/scl/fi/rcgi8frlyvuwbjjb6j8wl/tsw-xx70_3.001.0020.001.puf?rlkey=uxcpwg9kpl063y8ar2s37mnac&st=6sxf6ya1&dl=1",
-                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/firmware/tss-version.txt",
+                "fileHashUrl": "https://raw.githubusercontent.com/SPloegje/Crestron-TSW-Update/refs/heads/main/tss-version.txt",
                 "fileType": "firmware"
             }
         ]
@@ -64,7 +64,7 @@
         "filesToUpdate": [
             {
                 "fileUrl": "https://www.dropbox.com/scl/fi/rcgi8frlyvuwbjjb6j8wl/tsw-xx70_3.001.0020.001.puf?rlkey=uxcpwg9kpl063y8ar2s37mnac&st=6sxf6ya1&dl=1",
-                "fileHashUrl": "https://crestrondevicefiles.blob.core.windows.net/70-series/production/firmware/tss-version.txt",
+                "fileHashUrl": "https://raw.githubusercontent.com/SPloegje/Crestron-TSW-Update/refs/heads/main/tss-version.txt",
                 "fileType": "firmware"
             }
         ]
